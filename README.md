@@ -13,7 +13,7 @@ I am Michael Bataller, a computer engineering student. Check out my [website](ht
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchlbataller&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchlbataller&hide=css)](https://github.com/mchlbataller)
 
 ## GitHub Stats
 
