@@ -6,6 +6,9 @@ I am Michael Bataller, a computer engineering student. Check out my [website](ht
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mchlbataller)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/michael_bataller)
 
+                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mchlbataller.mchlbataller)
+
+
 ## Languages I've used
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
