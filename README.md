@@ -6,7 +6,7 @@ I am Michael Bataller, a computer engineering student. Check out my [website](ht
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mchlbataller)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/michael_bataller)
 
-                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mchlbataller.mchlbataller)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mchlbataller.mchlbataller)
 
 
 ## Languages I've used
